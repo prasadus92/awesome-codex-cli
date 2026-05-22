@@ -123,7 +123,7 @@ Multi-agent orchestration with `.toml` definitions. Codex supports parallel fan-
 - [aannoo/hcom](https://github.com/aannoo/hcom) - Hierarchical agent communication framework. Agents delegate subtasks with context preservation. ![GitHub stars](https://img.shields.io/github/stars/aannoo/hcom?style=flat-square)
 - [obra/external-subagents](https://github.com/obra/external-subagents) - Run subagents as external processes with custom sandboxing. ![GitHub stars](https://img.shields.io/github/stars/obra/external-subagents?style=flat-square)
 - [GreenSheep01201/claw-empire](https://github.com/GreenSheep01201/claw-empire) - Local-first AI agent office simulator. Orchestrates CLI, OAuth, and API-connected agents as a virtual autonomous company. ![GitHub stars](https://img.shields.io/github/stars/GreenSheep01201/claw-empire?style=flat-square)
-- [Alfred](https://github.com/luminik-io/alfred-os) - Local agent-fleet runtime for Claude Code and Codex CLI: GitHub issue claiming, isolated worktrees, launchd/systemd scheduling, Slack reporting, and per-agent engine routing. ![GitHub stars](https://img.shields.io/github/stars/luminik-io/alfred-os?style=flat-square)
+- [Alfred](https://github.com/luminik-io/alfred-os) - Local runtime for autonomous repo teammates on Claude Code and Codex CLI: GitHub issues/specs, isolated worktrees, PRs, reviews, tests, Slack reports, and per-agent engine routing. ![GitHub stars](https://img.shields.io/github/stars/luminik-io/alfred-os?style=flat-square)
 
 ## Skills
 
